@@ -1,2 +1,2 @@
 # KNwebportal
-webportal for KN woodworks company
+selfmade simple webportal for woodworks company
